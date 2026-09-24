@@ -1,7 +1,10 @@
 # factory-revenge
 This game was created during my participation in gwueble jam 2020
 
-Made with Godot.
+Made with Godot 4.7
+
+game by Hindrou Action Studio
+developer Help_HIFODA
 
 Work on it began from 7/20/2026 to 7/27/2026
 
